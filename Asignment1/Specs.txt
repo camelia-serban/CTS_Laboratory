@@ -1,0 +1,20 @@
+Phase 1 - Naming and writing conventions
+- define each variable on a single line
+- rename loan_value and use lowerCamelCase
+- rename account_type and use lowerCamelCase
+- rename loan() method with getLoan()
+- rename calculate() method
+
+Phase 2 - Explain yourself in code
+- remove comments
+
+Phase3 - Use enumeration for standard symbols
+
+Phase 4 - Use Exceptions rather that Return codes
+- create exception class for invalid loanValue
+
+Phase 5 - Use interfaces
+- create interfaces for the rate and for validating the value of the loan
+
+Phase 6 - Distributing on levels
+- the methods should have at most 3 imbrication levels
