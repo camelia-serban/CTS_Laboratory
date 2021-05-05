@@ -1,0 +1,10 @@
+Bachelor topic: Interactive application for managing a beauty salon
+
+1. Create different make-up and hairstyles
+- there are four types: CUT_CREASE, SMOKEY_EYES, BALAYAGE, LIGHT_CURLS
+- in the future new types can appear or the existing ones can change
+
+2. In order to allow others to develop external solutions, a library mst be developed:
+- it contains many classes with some details
+- not all the classes have a lot of information
+- the library provide a simplified interface for a set of necessary functions

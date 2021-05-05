@@ -1,0 +1,6 @@
+Bachelor topic: Interactive application for managing a beauty salon
+
+1. There is a specific balayage hairstyle model
+- instances of the same client can appear for another client
+- creating the hairstyle processes involves loading and generating the model
+- the solution can create several instances of the same client

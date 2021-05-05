@@ -1,0 +1,6 @@
+Bachelor topic: Interactive application for managing a beauty salon
+
+1. Instantiation of the client
+- the attributes: name, beautyPoints, isNew, desiredMakeup
+- an efficient solution must allow the creation of the client without giving values for all the 
+   attributes, but also without allowing the programmers to omit some of them

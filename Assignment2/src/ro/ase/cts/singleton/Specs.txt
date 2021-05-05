@@ -1,0 +1,10 @@
+Bachelor topic: Interactive application for managing a beauty salon
+
+In order to create a web site for a beauty salon, I need to create a software solution that will provide:
+
+1. Efficient management of the connection to the Database (login)
+- the different modules must use an unique connection to the database
+- the client must use a unique object to take care of the connection to the database
+
+2. The application will use different databases for registry section
+- the connections to those databases must be unique
